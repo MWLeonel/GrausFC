@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.exe
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.deps.json
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.dll
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.pdb
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.dll
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.pdb
+C:\Users\Max Leonel\Desktop\GrausFC\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.genruntimeconfig.cache
